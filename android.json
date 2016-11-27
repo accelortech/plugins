@@ -1,0 +1,59 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.phonegap.plugins.PushPlugin": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-image-picker": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "166826460413244",
+            "APP_NAME": "IRPChat",
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        },
+        "com.megster.cordova.FileChooser": {
+            "PACKAGE_NAME": "com.ionicframework.irpchat307134"
+        }
+    },
+    "dependent_plugins": {}
+}
